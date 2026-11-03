@@ -1,4 +1,5 @@
 "use client"
+
 import { use } from "react"
 import { ProductResponse } from "./ProductCardComponent"
 import ProductCardComponent from "./ProductCardComponent";
